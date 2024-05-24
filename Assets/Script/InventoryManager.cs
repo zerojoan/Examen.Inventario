@@ -14,6 +14,11 @@ public class InventoryManager : MonoBehaviour
    public Image[] weaponsSprites;
    public InventorySlot[] weaponSlots;
 
+   void Awake()
+   {
+    instance = this;
+   }
+
     public void AddItem(ScriptableItem item)
     {
       for (int i= 0; i < weapons.Length; i++)

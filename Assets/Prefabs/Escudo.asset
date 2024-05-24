@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 39b1befd3d0ed1d4e82bbe0bd7ad5e46, type: 3}
-  m_Name: Granada
+  m_Name: Escudo
   m_EditorClassIdentifier: 
-  itemType: 2
-  itemName: Granada monada
-  itemDescription: 
-  itemprice: 7
-  itemSprite: {fileID: 21300000, guid: db5bc1bde20bf174f92fabfa5e9b1504, type: 3}
+  itemType: 1
+  itemName: Escudo
+  itemDescription: si
+  itemprice: 2
+  itemSprite: {fileID: 21300000, guid: 0479f6dc60f6514438507c42fdc32fdb, type: 3}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Espada laser
   m_EditorClassIdentifier: 
   itemType: 0
-  itemName: 
-  itemDescription: 
-  itemprice: 0
-  itemSprite: {fileID: 0}
+  itemName: Espada laser
+  itemDescription: Laser espada
+  itemprice: 5
+  itemSprite: {fileID: 21300000, guid: 3cb61ca9f532555458f3f521721fdb5b, type: 3}
